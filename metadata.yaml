@@ -1,11 +1,16 @@
 _repo: Joe-Leslie-s-Wife-or-a-Skeleton-in-the-Closet_64125
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64125-h/images/cover.jpg
 creator:
   author:
     agent_name: Robertson, Alexander
     gutenberg_agent_id: '52760'
     url: http://www.gutenberg.org/2009/agents/52760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64125#Joe-Leslie-s-Wife-or-a-Skeleton-in-the-Closet
 gutenberg_issued: '2020-12-24'
 gutenberg_type: Text
 identifiers:
